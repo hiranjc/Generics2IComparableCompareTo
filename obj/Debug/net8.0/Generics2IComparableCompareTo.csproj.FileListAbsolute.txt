@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Generics2\bin\Debug\net8.0\Generics2IComparableCompareTo.exe
+C:\Users\ET73\Downloads\projetos-c#\Generics2\bin\Debug\net8.0\Generics2IComparableCompareTo.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Generics2\bin\Debug\net8.0\Generics2IComparableCompareTo.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Generics2\bin\Debug\net8.0\Generics2IComparableCompareTo.dll
+C:\Users\ET73\Downloads\projetos-c#\Generics2\bin\Debug\net8.0\Generics2IComparableCompareTo.pdb
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.dll
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\refint\Generics2IComparableCompareTo.dll
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.pdb
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\Generics2IComparableCompareTo.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Generics2\obj\Debug\net8.0\ref\Generics2IComparableCompareTo.dll
